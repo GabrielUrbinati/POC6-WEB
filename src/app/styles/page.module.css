@@ -34,3 +34,31 @@
 		color: #1a1a24;
 	}
 }
+@media (min-width: 1200px) {
+	.container {
+		width: 70vw; /* Define uma largura fixa para o retângulo */
+		height: auto; /* Ajusta a altura conforme o conteúdo */
+		display: flex;
+		justify-content: center; /* Centraliza todo o conteúdo na tela */
+		align-items: center;
+		margin: 0 auto; /* Centraliza o contêiner horizontalmente */
+		padding: 2rem;
+	}
+
+	.contentBox {
+		width: 100%;
+		display: flex;
+		flex-direction: column; /* Mantém a organização em coluna */
+		align-items: center; /* Centraliza o conteúdo horizontalmente */
+		gap: 20px; /* Espaçamento entre os elementos */
+		padding: 2rem;
+		border-radius: 2rem;
+		overflow: hidden; /* Garante que os assentos não ultrapassem as bordas */
+	}
+
+	
+	
+	
+
+	
+}

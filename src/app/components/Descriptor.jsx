@@ -10,7 +10,7 @@ const Descriptor = () => {
 			</div>
 			<div className={styles.sections}>
 				<p className={styles.selected}></p>
-				<p className={styles.text}>selecionado</p>
+				<p className={styles.text}>Selecionado</p>
 			</div>
 			<div className={styles.sections}>
 				<p className={styles.occupied}></p>

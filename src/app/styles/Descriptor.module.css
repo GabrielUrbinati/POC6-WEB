@@ -49,3 +49,15 @@
 		color: #1a1a24;
 	}
 }
+@media (min-width: 1200px) {
+	.container {
+		
+		max-width: 800px; 
+		margin: 0 auto; 
+		gap: 7rem; 
+	}
+
+	.text {
+		font-size: 29px;
+	}
+}

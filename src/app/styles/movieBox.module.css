@@ -29,3 +29,12 @@
 		color: #1a1a24;
 	}
 }
+@media (min-width: 1200px) {
+	.title {
+		font-size: 32px; /* Aumenta o tamanho da fonte do título em telas maiores */
+	}
+
+	.hour {
+		font-size: 32px; /* Aumenta o tamanho da fonte do horário em telas maiores */
+	}
+}

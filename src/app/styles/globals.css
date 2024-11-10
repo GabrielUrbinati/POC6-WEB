@@ -40,3 +40,8 @@ a {
 		color-scheme: dark;
 	}
 }
+@media (min-width: 1200px) {
+	html {
+		font-size: 1.1rem; /* Ajuste o valor conforme necessário */
+	}
+}
